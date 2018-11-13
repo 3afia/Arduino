@@ -7,5 +7,5 @@ TO DO:
   2. Edit the project to add helping comments.
   3.
   
-  Projects list:
-  1. C Code which counts from 1-9 and displays the results tehough a 7 segments led 
+Projects list:
+  1. C code which counts from 1-9 and displays the results trhough a 7 segments led 
