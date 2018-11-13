@@ -8,5 +8,5 @@ TO DO:
   3.
   
 Projects list:
-  1. C code which counts from 1-9 and displays the results trhough a 7 segments led 
-    Preview video (10 seconds): https://youtu.be/Jrj2kGuCusY
+  1. C code which counts from 1-9 and displays the results trhough a 7 segments led.
+      - Preview video (10 seconds): https://youtu.be/Jrj2kGuCusY
