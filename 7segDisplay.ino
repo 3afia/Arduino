@@ -15,7 +15,7 @@ int numArray[10][8] = {
 void setup() {
   Serial.begin(9600);
   for(int i = 0; i < 8; i++){
-  pinMode(outputPins[i], OUTPUT);
+    pinMode(outputPins[i], OUTPUT);
   }
 }
 void numbers(int setnum[10][8], int outPutPins[]) {
